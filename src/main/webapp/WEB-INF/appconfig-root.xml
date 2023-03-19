@@ -11,7 +11,7 @@
 
     <import resource="appconfig-security.xml"/>
 
-    <context:component-scan base-package="net.proselyte.springsecurityapp.*"/>
+    <context:component-scan base-package="ua.stas.*"/>
 
     <context:property-placeholder location="classpath:database.properties"/>
 
